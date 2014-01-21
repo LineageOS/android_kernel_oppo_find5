@@ -58,7 +58,7 @@
 #else
 #define TP_UPDATE_FIRMWARE  0
 #endif
-#define SUPPORT_DOUBLE_TAP  0
+#define SUPPORT_DOUBLE_TAP  1
 
 #define TOUCHSCREEN_SYNAPTICS_WINTEK_FW Syna_Firmware_Data_Wintek
 #define TOUCHSCREEN_SYNAPTICS_WINTEK_FW_OLD Syna_Firmware_Data_Wintek_Old
